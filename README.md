@@ -14,3 +14,6 @@
 
 ![Challenge 02: Maximum Value](./whiteboard-challenges/Maximum%20Value/MaximumValue.png)
 
+### Challenge 03: Remove-Middle-Value
+
+![Challenge 03: Remove-Middle-Value](./whiteboard-challenges/Remove%20Middle%20Value/RemoveMiddleValue.png)
