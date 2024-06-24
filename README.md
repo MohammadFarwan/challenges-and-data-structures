@@ -17,3 +17,7 @@
 ### Challenge 03: Remove-Middle-Value
 
 ![Challenge 03: Remove-Middle-Value](./whiteboard-challenges/Remove%20Middle%20Value/RemoveMiddleValue.png)
+
+### Challenge 04: Insert Value in Middle of Array
+
+![Challenge 04: Insert Value in Middle of Array](./whiteboard-challenges/Insert%20Value%20in%20Middle%20of%20Array/InsertValueInMiddleOfArray.png)
