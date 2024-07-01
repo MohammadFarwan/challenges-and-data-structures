@@ -1,45 +1,46 @@
-﻿namespace Find_Duplicates
+namespace ConsoleApp8
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            int[] input1 = { 1, 2, 3, 1, 2, 3 };
-            int[] input2 = { 16, 8, 31, 17, 15, 23, 17, 8 };
-            int[] input3 = { 5, 10, 16, 20, 10, 16 };
+            int[] nums = new int[] {16, 8, 31, 17, 15, 23, 17, 8};
 
-            Console.WriteLine("Output: " + string.Join(", ", FindDuplicates(input1))); 
-            Console.WriteLine("Output: " + string.Join(", ", FindDuplicates(input2))); 
-            Console.WriteLine("Output: " + string.Join(", ", FindDuplicates(input3)));
+            int[] duplicates = FindDuplicates(nums);
+
+            Console.WriteLine("Duplicates:");
+            foreach (var item in duplicates)
+            {
+                Console.WriteLine(item);
+            }
         }
 
-        public static int[] FindDuplicates(int[] array)
+
+        public static int[] FindDuplicates(int[] numsArr)
         {
-            Dictionary<int, int> counts = new Dictionary<int, int>();
-
-            List<int> duplicates = new List<int>();
-
-            for (int i = 0; i < array.Length; i++)
+            List<int> duplicatesList = new List<int>();
+            foreach (var item in numsArr)
             {
-                if (counts.ContainsKey(array[i]))
+                int count = CountOfnum(item, numsArr);
+                if (count > 1 && !duplicatesList.Contains(item))
                 {
-                    counts[array[i]]++;
-                }
-                else
-                {
-                    counts[array[i]] = 1;
+                    duplicatesList.Add(item);
                 }
             }
+            return duplicatesList.ToArray();
+        }
 
-            foreach (var item in counts)
+        public static int CountOfnum(int num, int[] numsArr)
+        {
+            int count = 0;
+            foreach (var item in numsArr)
             {
-                if (item.Value > 1)
+                if (num == item)
                 {
-                    duplicates.Add(item.Key);
+                    count++;
                 }
             }
-
-            return duplicates.ToArray();
+            return count;   
         }
     }
 }
