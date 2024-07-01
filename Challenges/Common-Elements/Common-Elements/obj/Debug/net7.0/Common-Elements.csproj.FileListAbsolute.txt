@@ -1,0 +1,14 @@
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\bin\Debug\net7.0\Common-Elements.exe
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\bin\Debug\net7.0\Common-Elements.deps.json
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\bin\Debug\net7.0\Common-Elements.runtimeconfig.json
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\bin\Debug\net7.0\Common-Elements.dll
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\bin\Debug\net7.0\Common-Elements.pdb
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\Common-Elements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\Common-Elements.AssemblyInfoInputs.cache
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\Common-Elements.AssemblyInfo.cs
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\Common-Elements.csproj.CoreCompileInputs.cache
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\Common-Elements.dll
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\refint\Common-Elements.dll
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\Common-Elements.pdb
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\Common-Elements.genruntimeconfig.cache
+C:\Users\alfrw\source\repos\Common-Elements\Common-Elements\obj\Debug\net7.0\ref\Common-Elements.dll
