@@ -25,3 +25,7 @@
 ### Challenge 05: Find Duplicates in Array
 
 ![Challenge 05: Find Duplicates in Array](./Challenges/Find-Duplicates/cc5.png)
+
+### Challenge 06-A: Find Common Elements in Two Arrays
+
+![Challenge 06-A: Find Common Elements in Two Arrays](./Challenges/Common-Elements/cc6.png)
