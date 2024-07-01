@@ -21,3 +21,7 @@
 ### Challenge 04: Insert Value in Middle of Array
 
 ![Challenge 04: Insert Value in Middle of Array](./whiteboard-challenges/Insert%20Value%20in%20Middle%20of%20Array/InsertValueInMiddleOfArray.png)
+
+### Challenge 05: Find Duplicates in Array
+
+![Challenge 05: Find Duplicates in Array](./Challenges/Find-Duplicates/cc5.png)

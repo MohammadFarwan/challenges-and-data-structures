@@ -30,7 +30,6 @@ namespace ConsoleApp8
             }
             return duplicatesList.ToArray();
         }
-
         public static int CountOfnum(int num, int[] numsArr)
         {
             int count = 0;
