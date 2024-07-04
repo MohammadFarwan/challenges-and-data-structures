@@ -29,3 +29,8 @@
 ### Challenge 06-A: Find Common Elements in Two Arrays
 
 ![Challenge 06-A: Find Common Elements in Two Arrays](./Challenges/Common-Elements/cc6.png)
+
+### Challenge 6-B: Reverse Words
+
+![Challenge 6-B: Reverse Words](./Challenges/Reverse-Words/cc6-b.png)
+
