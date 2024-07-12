@@ -1,0 +1,15 @@
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.exe
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.deps.json
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.runtimeconfig.json
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.dll
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\bin\Debug\net7.0\LinkedList.pdb
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.AssemblyInfo.cs
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.sourcelink.json
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.dll
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\refint\LinkedList.dll
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.pdb
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\LinkedList.genruntimeconfig.cache
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\LinkedList\LinkedList\obj\Debug\net7.0\ref\LinkedList.dll
