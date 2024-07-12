@@ -46,3 +46,8 @@ Implement a basic singly linked list data structure in C#. The implementation sh
 
 - Ensure the implementation handles typical use cases without explicit exception handling.
 - For robust error handling, consider adding try-catch blocks where necessary.
+
+
+## Whiteboard Image
+
+![Linked List Implementation](cc7.png)
