@@ -96,6 +96,40 @@ namespace LinkedList
             }
             Console.WriteLine("Null");
         }
+
+
+
+        // Remove duplicate nodes from the linked list
+        public void RemoveDuplicate()
+        {
+            try
+            {
+                Node current = head;
+                while (current != null)
+                {
+                    Node previous = current;
+                    Node index = current.Next;
+                    while (index != null)
+                    {
+                        if (current.Data == index.Data)
+                        {
+                            previous.Next = index.Next;
+                        }
+                        else
+                        {
+                            previous = index;
+                        }
+                        index = index.Next;
+                    }
+                    current = current.Next;
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("An error occurred: " + ex.Message);
+            }
+        }
+
     }
 
 }
