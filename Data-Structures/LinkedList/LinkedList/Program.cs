@@ -13,13 +13,16 @@
             // Print all nodes
             list.PrintList();
 
+            // Add a node at First
+            list.AddFirst(15);
+            list.PrintList();
+
             // Remove a node
             list.Remove(10);
             list.PrintList();
 
             Console.WriteLine(list.Includes(5));
-            Console.WriteLine(list.Includes(100)); 
+            Console.WriteLine(list.Includes(100));
         }
-    }
 
 }

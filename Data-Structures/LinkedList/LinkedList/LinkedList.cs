@@ -35,6 +35,14 @@ namespace LinkedList
             }
         }
 
+        // Add a node to First
+        public void AddFirst(int data)
+        {
+            Node newNode = new Node(data);
+            newNode.Next = head;
+            head = newNode;
+        }
+
         // Check if the linked list contains a specified node
         public bool Includes(int data)
         {
