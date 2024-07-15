@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Challenges"
+    "\\Challenges",
+    "\\Challenges\\Reverse-Words",
+    "\\Data-Structures",
+    "\\Data-Structures\\LinkedList"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Data-Structures\\LinkedList\\README.md",
   "PreviewInSolutionExplorer": false
 }
