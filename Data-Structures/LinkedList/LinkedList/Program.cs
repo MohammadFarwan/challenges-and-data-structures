@@ -23,6 +23,26 @@
 
             Console.WriteLine(list.Includes(5));
             Console.WriteLine(list.Includes(100));
+
+            Console.WriteLine("---------------------------------------");
+
+
+            LinkedList list2 = new LinkedList();
+            list2.Add(5);
+            list2.Add(20);
+            list2.Add(20);
+            list2.Add(10);
+            list2.Add(5);
+            list2.Add(10);
+
+            // Print all nodes
+            Console.WriteLine("Original list:");
+            list2.PrintList();
+
+            // Remove duplicates
+            list2.RemoveDuplicate();
+            Console.WriteLine("After removing duplicates:");
+            list2.PrintList();
         }
 
 }
