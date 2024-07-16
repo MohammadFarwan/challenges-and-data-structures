@@ -42,7 +42,4 @@
 
 ### Linked List Remove Duplicates
 
-![Linked List Remove Duplicates](./Data-Structures/LinkedList/RemoveDuplicates/remove.png)
-
-For more details, go to the [README](./Data-Structures/LinkedList/RemoveDuplicates/README.md).
-
+![Linked List Remove Duplicates](./images/remove.png)
