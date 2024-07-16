@@ -2,10 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Challenges",
-    "\\Challenges\\Reverse-Words",
     "\\Data-Structures",
-    "\\Data-Structures\\LinkedList"
+    "\\Data-Structures\\LinkedList",
+    "\\Data-Structures\\LinkedList\\LinkedList",
+    "\\Data-Structures\\LinkedList\\LinkedList\\RemoveDuplicates"
   ],
-  "SelectedNode": "\\Data-Structures\\LinkedList\\README.md",
+  "SelectedNode": "\\Data-Structures\\LinkedList\\LinkedList\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

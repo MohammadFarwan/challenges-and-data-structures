@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkedListTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af38aa5111a3f86d8e328a18af215a2a0a53dc12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5a6e57d59ac82efbc6ecbee5da9584768ad88c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkedListTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkedListTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

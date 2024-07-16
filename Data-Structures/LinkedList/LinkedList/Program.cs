@@ -43,6 +43,10 @@
             list2.RemoveDuplicate();
             Console.WriteLine("After removing duplicates:");
             list2.PrintList();
+
+
+            Console.WriteLine("---------------------------------------");
         }
 
+    }
 }
