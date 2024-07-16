@@ -40,4 +40,9 @@
 ![Linked List Implementation](./Data-Structures/LinkedList/cc7.png)
 
 
+### Linked List Remove Duplicates
+
+![Linked List Remove Duplicates](./Data-Structures/LinkedList/RemoveDuplicates/remove.png)
+
+For more details, go to the [README](./Data-Structures/LinkedList/RemoveDuplicates/README.md).
 

@@ -130,6 +130,37 @@ namespace LinkedList
             }
         }
 
+
+        // Get the occurrences of a node
+        public int GetOccurrences(int data)
+        {
+            int count = 0;
+            Node current = head;
+            while (current != null)
+            {
+                if (current.Data == data)
+                {
+                    count++;
+                }
+                current = current.Next;
+            }
+            return count;
+        }
+
+        // Get the total number of nodes
+        public int GetNodeCount()
+        {
+            int nodeCount = 0;
+            Node currentNode = head;
+            while (currentNode != null)
+            {
+                nodeCount++;
+                currentNode = currentNode.Next;
+            }
+            return nodeCount;
+        }
+
+
     }
 
 }
