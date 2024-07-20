@@ -5,8 +5,9 @@
     "\\Data-Structures",
     "\\Data-Structures\\LinkedList",
     "\\Data-Structures\\LinkedList\\LinkedList",
-    "\\Data-Structures\\LinkedList\\LinkedList\\RemoveDuplicates"
+    "\\Data-Structures\\LinkedList\\LinkedList\\RemoveDuplicates",
+    "\\images"
   ],
-  "SelectedNode": "\\Data-Structures\\LinkedList\\LinkedList\\Program.cs",
+  "SelectedNode": "\\images",
   "PreviewInSolutionExplorer": false
 }
