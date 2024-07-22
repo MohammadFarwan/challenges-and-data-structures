@@ -9,7 +9,7 @@ namespace LinkedList
 {
     public class LinkedList
     {
-        private Node head;
+        public Node head { get; protected set; }
 
         public LinkedList()
         {
@@ -130,6 +130,42 @@ namespace LinkedList
             }
         }
 
+        // Merge two sorted linked lists into a single sorted linked list
+        public static LinkedList MergeSortedLists(LinkedList list1, LinkedList list2)
+        {
+            Node current1 = list1.head;
+            Node current2 = list2.head;
+            LinkedList mergedList = new LinkedList();
+
+            while (current1 != null && current2 != null)
+            {
+                if (current1.Data <= current2.Data)
+                {
+                    mergedList.Add(current1.Data);
+                    current1 = current1.Next;
+                }
+                else
+                {
+                    mergedList.Add(current2.Data);
+                    current2 = current2.Next;
+                }
+            }
+
+            // Add the remaining elements
+            while (current1 != null)
+            {
+                mergedList.Add(current1.Data);
+                current1 = current1.Next;
+            }
+
+            while (current2 != null)
+            {
+                mergedList.Add(current2.Data);
+                current2 = current2.Next;
+            }
+
+            return mergedList;
+        }
 
         // Get the occurrences of a node
         public int GetOccurrences(int data)
