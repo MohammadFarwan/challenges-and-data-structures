@@ -46,7 +46,34 @@
 
 
             Console.WriteLine("---------------------------------------");
-        }
+
+
+          
+            LinkedList listA = new LinkedList();
+            listA.Add(1);
+            listA.Add(3);
+            listA.Add(5);
+
+            LinkedList listB = new LinkedList();
+            listB.Add(2);
+            listB.Add(4);
+            listB.Add(6);
+
+            Console.WriteLine("List A:");
+            listA.PrintList();
+
+            Console.WriteLine("List B:");
+            listB.PrintList();
+
+            LinkedList mergedList = LinkedList.MergeSortedLists(listA, listB);
+
+            Console.WriteLine("Merged List:");
+            mergedList.PrintList();
+           
+
+
+
+}
 
     }
 }
