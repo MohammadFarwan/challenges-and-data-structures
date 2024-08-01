@@ -69,11 +69,13 @@
 
             Console.WriteLine("Merged List:");
             mergedList.PrintList();
-           
+
+
+            Console.WriteLine("---------------------------------------");
 
 
 
-}
+        }
 
     }
 }
