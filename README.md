@@ -52,5 +52,5 @@
 
 ### Stack & Queue Implementation
 
-![Stack](./images/Stack.png)
+![Stack](./images/stack.png)
 ![Queue](./images/Queue.png)
