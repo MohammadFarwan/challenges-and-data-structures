@@ -1,4 +1,6 @@
-﻿namespace StackAndQueue
+﻿using StackAndQueue.ReverseStackUsingQueue;
+
+namespace StackAndQueue
 {
     class Program
     {
@@ -10,7 +12,7 @@
             Stack stack = new Stack();
             stack.Push(10);
             stack.Push(5);
-            stack.PrintStack();
+            Console.WriteLine(stack);
 
             int popped = stack.Pop();
             Console.WriteLine("Popped: " + popped);
@@ -39,6 +41,34 @@
 
             bool isEmptyQueue = queue.IsEmpty();
             Console.WriteLine("Is queue empty: " + isEmptyQueue);
+
+
+            //========= [ StackWithReverse example ] =========
+
+            Console.WriteLine("\n========= [ StackWithReverse example ] =========");
+            
+            StackWithReverse stack1 = new StackWithReverse();
+            stack1.Push(1);
+            stack1.Push(2);
+            stack1.Push(3);
+            stack1.Push(4);
+            stack1.Push(5);
+
+            Console.WriteLine(stack1);
+            stack1.ReverseStack();
+            Console.WriteLine(stack1);
+
+            stack1.Push(6);
+            stack1.Push(7);
+            Console.WriteLine(stack1);
+            stack1.ReverseStack();
+            Console.WriteLine(stack1);
+
+
+
+
+
+            Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
         }
     }
 }

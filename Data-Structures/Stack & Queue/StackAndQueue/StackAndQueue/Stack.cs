@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace StackAndQueue
 {
     public class Stack
     {
-        private Node top;
+        protected Node top;
 
         public Stack()
         {
@@ -49,17 +45,19 @@ namespace StackAndQueue
             return top == null;
         }
 
-        public void PrintStack()
+        public override string ToString()
         {
             Node current = top;
-            Console.Write("Stack: ");
+            string result = "Stack: Top -> ";
             while (current != null)
             {
-                Console.Write(current.Data + " ");
+                result += current.Data + " -> ";
                 current = current.Next;
             }
-            Console.WriteLine();
+            result += "null";
+            return result;
         }
+        
     }
 
 }
