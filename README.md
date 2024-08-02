@@ -54,3 +54,8 @@
 
 ![Stack](./images/stack.png)
 ![Queue](./images/Queue.png)
+
+
+### Stack & Queue: Reverse a Stack using Queue
+
+![Stack & Queue: Reverse a Stack using Queue](./images/cc9.png)
