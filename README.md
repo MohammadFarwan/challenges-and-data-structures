@@ -59,3 +59,9 @@
 ### Stack & Queue: Reverse a Stack using Queue
 
 ![Stack & Queue: Reverse a Stack using Queue](./images/cc9.png)
+
+
+### Stack Challenge: Delete Middle Element of a Stack 
+
+
+![Stack Challenge: Delete Middle Element of a Stack](./images/cc10.png)
