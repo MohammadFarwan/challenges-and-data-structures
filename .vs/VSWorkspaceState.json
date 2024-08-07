@@ -1,14 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Challenges",
     "\\Data-Structures",
-    "\\Data-Structures\\LinkedList",
-    "\\Data-Structures\\LinkedList\\LinkedList",
     "\\Data-Structures\\Stack \u0026 Queue",
     "\\Data-Structures\\Stack \u0026 Queue\\images",
+    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue",
+    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue",
+    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue",
     "\\images"
   ],
-  "SelectedNode": "\\Data-Structures\\LinkedList\\LinkedList\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
