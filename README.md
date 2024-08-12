@@ -70,3 +70,11 @@
 ### Adv-cc 12 [ Min Stack Challenge ]
 
 ![Min Stack Challenge](./images/cc12.png)
+
+
+### Lab-13 Tree Implementation
+
+
+![lab-13](./images/lab13-a.png)
+![lab-13](./images/lab13-b.png)
+
