@@ -65,3 +65,8 @@
 
 
 ![Stack Challenge: Delete Middle Element of a Stack](./images/cc10.png)
+
+
+### Adv-cc 12 [ Min Stack Challenge ]
+
+![Min Stack Challenge](./images/cc12.png)

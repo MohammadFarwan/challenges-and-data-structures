@@ -85,6 +85,44 @@ namespace StackAndQueue
             stack2.DeleteMiddle();
             Console.WriteLine(stack2);
 
+
+            Console.WriteLine("\n========= [ Min Stack Challenge ] =========");
+
+            MinStack minStack = new MinStack();
+
+            // Push elements
+            minStack.Push(15);
+            minStack.Push(7);  
+            minStack.Push(12); 
+            minStack.Push(3);  // Top -> 3 -> 12 -> 7 -> 15
+
+            minStack.PrintStack();
+
+            int min = minStack.GetMin();
+            Console.WriteLine("Min: " + min);
+
+            int popped2 = minStack.Pop();
+            Console.WriteLine("Popped: " + popped2);
+            minStack.PrintStack();
+
+            min = minStack.GetMin();
+            Console.WriteLine("Min: " + min);
+
+            int peeked2 = minStack.Top();
+            Console.WriteLine("Top: " + peeked2);
+
+            minStack.Push(2);
+            minStack.PrintStack();
+
+            min = minStack.GetMin();
+            Console.WriteLine("Min: " + min);
+
+            bool isEmpty = minStack.IsEmpty();
+            Console.WriteLine("Is Empty: " + isEmpty);
+
+
+
+
             Console.WriteLine("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n");
         }
     }
