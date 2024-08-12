@@ -4,11 +4,8 @@
     "\\Data-Structures",
     "\\Data-Structures\\Stack \u0026 Queue",
     "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue",
-    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue",
-    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack",
-    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue",
-    "\\images"
+    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest"
   ],
-  "SelectedNode": "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs",
+  "SelectedNode": "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,15 @@
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\bin\Debug\net7.0\TreeImplementation.exe
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\bin\Debug\net7.0\TreeImplementation.deps.json
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\bin\Debug\net7.0\TreeImplementation.runtimeconfig.json
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\bin\Debug\net7.0\TreeImplementation.dll
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\bin\Debug\net7.0\TreeImplementation.pdb
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\TreeImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\TreeImplementation.AssemblyInfoInputs.cache
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\TreeImplementation.AssemblyInfo.cs
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\TreeImplementation.csproj.CoreCompileInputs.cache
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\TreeImplementation.sourcelink.json
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\TreeImplementation.dll
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\refint\TreeImplementation.dll
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\TreeImplementation.pdb
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\TreeImplementation.genruntimeconfig.cache
+C:\Users\alfrw\source\repos\challenges-and-data-structures\Data-Structures\Trees\TreeImplementation\TreeImplementation\obj\Debug\net7.0\ref\TreeImplementation.dll
