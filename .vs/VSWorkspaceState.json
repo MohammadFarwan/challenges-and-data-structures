@@ -2,10 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\Data-Structures",
-    "\\Data-Structures\\Stack \u0026 Queue",
-    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue",
-    "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest"
+    "\\Data-Structures\\Trees",
+    "\\Data-Structures\\Trees\\images"
   ],
-  "SelectedNode": "\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

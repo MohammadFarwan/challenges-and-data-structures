@@ -78,3 +78,7 @@
 ![lab-13](./images/lab13-a.png)
 ![lab-13](./images/lab13-b.png)
 
+
+### Challenge 13
+
+![Tree](./images/cc13.png)
