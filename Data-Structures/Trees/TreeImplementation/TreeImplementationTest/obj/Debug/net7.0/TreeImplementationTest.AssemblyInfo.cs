@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TreeImplementationTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7198c1e79d213557514877df5eb549fee4a15ea2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3a466dc11e581bcbf39fb7a464f218e3c501006")]
 [assembly: System.Reflection.AssemblyProductAttribute("TreeImplementationTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TreeImplementationTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
