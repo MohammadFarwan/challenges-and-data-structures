@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace TreeImplementation
 {
@@ -71,6 +68,65 @@ namespace TreeImplementation
             PrintTree(node.Right, level + 1);
             Console.WriteLine(new string(' ', level * 4) + node.Data);
             PrintTree(node.Left, level + 1);
+        }
+
+        public int? FindSecondMax()
+        {
+            if (Root == null)
+                throw new InvalidOperationException("The tree is empty.");
+
+            int max = FindMax(Root);
+            int? secondMax = FindSecondMaxHelper(Root, max);
+
+            if (!secondMax.HasValue)
+                throw new InvalidOperationException("The tree does not have a second maximum value.");
+
+            return secondMax.Value;
+        }
+
+        private int FindMax(Node node)
+        {
+            if (node == null)
+                throw new InvalidOperationException("The tree is empty.");
+
+            int max = node.Data;
+            if (node.Left != null)
+                max = Math.Max(max, FindMax(node.Left));
+            if (node.Right != null)
+                max = Math.Max(max, FindMax(node.Right));
+
+            return max;
+        }
+
+        private int? FindSecondMaxHelper(Node node, int max)
+        {
+            if (node == null)
+                return null;
+
+            int? leftMaxValue = FindSecondMaxHelper(node.Left, max);
+            int? rightMaxValue = FindSecondMaxHelper(node.Right, max);
+
+            if (node.Data < max)
+            {
+                // Determine the largest value less than max
+                int? maxInSubtrees = null;
+                if (leftMaxValue.HasValue)
+                    maxInSubtrees = leftMaxValue;
+                if (rightMaxValue.HasValue && (!maxInSubtrees.HasValue || rightMaxValue > maxInSubtrees))
+                    maxInSubtrees = rightMaxValue;
+
+                // Update the maxInSubtrees if the current node's value is valid
+                if (!maxInSubtrees.HasValue || node.Data > maxInSubtrees)
+                    maxInSubtrees = node.Data;
+
+                return maxInSubtrees;
+            }
+
+            // If current node is not less than max, return the maximum found in subtrees
+            if (leftMaxValue.HasValue && rightMaxValue.HasValue)
+                return Math.Max(leftMaxValue.Value, rightMaxValue.Value);
+
+            return leftMaxValue ?? rightMaxValue;
         }
     }
 }

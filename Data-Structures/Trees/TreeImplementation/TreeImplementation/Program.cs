@@ -29,6 +29,7 @@ class Program
         Console.WriteLine($"\nContains 5: {contains}");
 
 
+        /////////////////////CC13////////////////////
         BinaryTree Btree = new BinaryTree();
         Btree.Root = new Node(4);
         Btree.Root.Left = new Node(8);
@@ -48,5 +49,30 @@ class Program
         List<int> mirroredInorder = Btree.InOrder();
         Console.WriteLine(string.Join(", ", mirroredInorder)); // Output: 7, 4, 9, 8, 12
 
+
+
+        //====================  CC14   ===========================
+
+        BinaryTree btree = new BinaryTree();
+        btree.Root = new Node(10);
+        btree.Root.Left = new Node(5);
+        btree.Root.Right = new Node(20);
+        btree.Root.Left.Left = new Node(3);
+        btree.Root.Left.Right = new Node(7);
+        btree.Root.Right.Left = new Node(15);
+        btree.Root.Right.Right = new Node(25);
+
+        Console.WriteLine("Binary Tree:");
+        btree.Print();
+
+        try
+        {
+            int? secondMax = btree.FindSecondMax();
+            Console.WriteLine($"\nSecond maximum value: {secondMax}");
+        }
+        catch (InvalidOperationException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
     }
 }
