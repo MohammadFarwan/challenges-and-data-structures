@@ -3,7 +3,10 @@
     "",
     "\\Data-Structures",
     "\\Data-Structures\\Trees",
-    "\\Data-Structures\\Trees\\images"
+    "\\Data-Structures\\Trees\\images",
+    "\\Data-Structures\\Trees\\TreeImplementation",
+    "\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation",
+    "\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree"
   ],
   "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false

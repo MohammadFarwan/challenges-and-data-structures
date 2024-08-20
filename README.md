@@ -82,3 +82,9 @@
 ### Challenge 13
 
 ![Tree](./images/cc13.png)
+
+
+# Challenge 14 [Binary Tree - Second Maximum Value]
+
+![Tree](./images/cc14.png)
+
