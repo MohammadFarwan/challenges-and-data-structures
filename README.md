@@ -84,7 +84,12 @@
 ![Tree](./images/cc13.png)
 
 
-# Challenge 14 [Binary Tree - Second Maximum Value]
+### Challenge 14 [Binary Tree - Second Maximum Value]
 
 ![Tree](./images/cc14.png)
+
+
+### Challenge 15 [ Binary Tree - Sum of leaf n
+
+![Tree](./images/cc15.png)
 

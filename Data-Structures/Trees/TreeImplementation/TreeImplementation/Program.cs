@@ -74,5 +74,24 @@ class Program
         {
             Console.WriteLine(ex.Message);
         }
+
+        Console.WriteLine("\n\n\n\n");
+
+        //====================  CC15   ===========================
+
+
+        BinaryTree binaryTree = new BinaryTree();
+        binaryTree.Root = new Node(9);
+        binaryTree.Root.Left = new Node(8);
+        binaryTree.Root.Right = new Node(12);
+        binaryTree.Root.Left.Left = new Node(3);
+        binaryTree.Root.Left.Right = new Node(7);
+        binaryTree.Root.Right.Left = new Node(17);
+        binaryTree.Root.Right.Right = new Node(23);
+        binaryTree.Root.Left.Left.Right = new Node(4);
+
+        int leafSum = binaryTree.LeafSum(); // Output: 51
+        Console.WriteLine($"Sum of all leaf nodes: {leafSum}");
+
     }
 }

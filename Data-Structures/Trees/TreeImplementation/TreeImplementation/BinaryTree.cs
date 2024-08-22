@@ -128,5 +128,22 @@ namespace TreeImplementation
 
             return leftMaxValue ?? rightMaxValue;
         }
+
+
+        public int LeafSum()
+        {
+            return CalculateLeafSum(Root);
+        }
+
+        private int CalculateLeafSum(Node node)
+        {
+            if (node == null)
+                return 0;
+
+            if (node.Left == null && node.Right == null)
+                return node.Data;
+
+            return CalculateLeafSum(node.Left) + CalculateLeafSum(node.Right);
+        }
     }
 }
