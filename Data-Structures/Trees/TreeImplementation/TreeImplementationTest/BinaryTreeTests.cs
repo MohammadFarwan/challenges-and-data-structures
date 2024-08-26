@@ -127,6 +127,53 @@ public class BinaryTreeTests
         // Assert
         Assert.Equal(51, leafSum);
     }
+    [Fact]
+    public void LargestValueEachLevel_ShouldReturnCorrectValues()
+    {
+        // Arrange
+        BinaryTree Btree = new BinaryTree();
+        Btree.Root = new Node(5);
+        Btree.Root.Left = new Node(13);
+        Btree.Root.Right = new Node(7);
+        Btree.Root.Left.Left = new Node(3);
+        Btree.Root.Left.Right = new Node(7);
+        Btree.Root.Right.Left = new Node(12);
+        Btree.Root.Right.Right = new Node(20);
+        Btree.Root.Left.Left.Left = new Node(1);
+        Btree.Root.Left.Left.Right = new Node(4);
+        Btree.Root.Right.Left.Right = new Node(11);
 
+        // Act
+        List<int> largestValues = Btree.LargestValueEachLevel();
+
+        // Assert
+        var expectedValues = new List<int> { 5, 13, 20, 11 };
+        Assert.Equal(expectedValues, largestValues);
+    }
+
+    [Fact]
+    public void LargestValueEachLevel_ShouldThrowException_WhenTreeIsEmpty()
+    {
+        // Arrange
+        BinaryTree Btree = new BinaryTree();
+
+        // Act & Assert
+        Assert.Throws<InvalidOperationException>(() => Btree.LargestValueEachLevel());
+    }
+
+    [Fact]
+    public void LargestValueEachLevel_ShouldHandleSingleElementTree()
+    {
+        // Arrange
+        BinaryTree Btree = new BinaryTree();
+        Btree.Root = new Node(42);
+
+        // Act
+        List<int> largestValues = Btree.LargestValueEachLevel();
+
+        // Assert
+        var expectedValues = new List<int> { 42 };
+        Assert.Equal(expectedValues, largestValues);
+    }
 }
 
