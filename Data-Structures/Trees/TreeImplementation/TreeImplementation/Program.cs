@@ -77,6 +77,7 @@ class Program
 
         Console.WriteLine("\n\n\n\n");
 
+
         //====================  CC15   ===========================
 
 
@@ -93,5 +94,29 @@ class Program
         int leafSum = binaryTree.LeafSum(); // Output: 51
         Console.WriteLine($"Sum of all leaf nodes: {leafSum}");
 
+        //====================  CC16   ===========================
+
+        BinaryTree tree4 = new BinaryTree();
+        tree4.Root = new Node(5);
+        tree4.Root.Left = new Node(13);
+        tree4.Root.Right = new Node(7);
+        tree4.Root.Left.Left = new Node(3);
+        tree4.Root.Left.Right = new Node(7);
+        tree4.Root.Right.Left = new Node(12);
+        tree4.Root.Right.Right = new Node(20);
+        tree4.Root.Left.Left.Left = new Node(1);
+        tree4.Root.Left.Left.Right = new Node(4);
+        tree4.Root.Right.Left.Right = new Node(11);
+
+        try
+        {
+            List<int> largestValues = tree4.LargestValueEachLevel();
+            Console.WriteLine("Largest values at each level: " + string.Join(", ", largestValues));
+            // Expected Output: [5, 13, 20, 11]
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
     }
 }
