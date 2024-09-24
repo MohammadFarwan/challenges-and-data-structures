@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.csproj": {}
+    "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.csproj": {
+    "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.csproj",
         "projectName": "LinkedList",
-        "projectPath": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.csproj",
-        "packagesPath": "C:\\Users\\alfrw\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\obj\\",
+        "projectPath": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\LinkedList.csproj",
+        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\LinkedList\\LinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alfrw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,30 +56,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.19, 7.0.19]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
