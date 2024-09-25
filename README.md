@@ -97,3 +97,8 @@
 ### Challenge 16 [ Binary Tree - Largest Value at Each Level ] 
 
 ![Tree](./images/cc16.png)
+
+
+### Linked List - Rotate by K
+
+![Linked List Rotate](./images/Rotate.png)

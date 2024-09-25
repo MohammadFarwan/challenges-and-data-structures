@@ -74,7 +74,22 @@
             Console.WriteLine("---------------------------------------");
 
 
+            LinkedList Rlist = new LinkedList();
+            Rlist.Add(1);
+            Rlist.Add(2);
+            Rlist.Add(3);
+            Rlist.Add(4);
+            Rlist.Add(5);
+            Rlist.Add(6);
 
+            Console.WriteLine("Original List:");
+            Rlist.PrintList();
+
+            int k = 2;
+            Rlist.RotateLeft(k);
+
+            Console.WriteLine($"\nList after rotating left by {k}:");
+            Rlist.PrintList();
         }
 
     }
