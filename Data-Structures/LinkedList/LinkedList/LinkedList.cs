@@ -197,6 +197,46 @@ namespace LinkedList
         }
 
 
+
+        // Rotate linked list to the left by k places
+        public void RotateLeft(int k)
+        {
+            if (head == null || head.Next == null || k == 0)
+            {
+                return;
+            }
+
+            // Calculate the length of the list
+            int length = 1;
+            Node tail = head;
+            while (tail.Next != null)
+            {
+                tail = tail.Next;
+                length++;
+            }
+
+            // Adjust k to be within the length of the list
+            k = k % length;
+            if (k == 0)
+            {
+                return; // No rotation needed
+            }
+
+            // Find the (k+1)th node
+            Node newTail = head;
+            for (int i = 1; i < k; i++)
+            {
+                newTail = newTail.Next;
+            }
+
+            // Rotate the list
+            Node newHead = newTail.Next;
+            newTail.Next = null; // Break the list at the kth node
+            tail.Next = head;    // Connect the end of the list to the old head
+            head = newHead;      // Update the head to the new head
+        }
+
+
     }
 
 }
