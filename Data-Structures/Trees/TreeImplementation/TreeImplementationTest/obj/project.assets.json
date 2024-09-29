@@ -5527,19 +5527,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\alfrw\\.nuget\\packages\\": {}
+    "C:\\Users\\Student\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementationTest\\TreeImplementationTest.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementationTest\\TreeImplementationTest.csproj",
       "projectName": "TreeImplementationTest",
-      "projectPath": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementationTest\\TreeImplementationTest.csproj",
-      "packagesPath": "C:\\Users\\alfrw\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementationTest\\obj\\",
+      "projectPath": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementationTest\\TreeImplementationTest.csproj",
+      "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementationTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\alfrw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5554,8 +5554,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\TreeImplementation.csproj": {
-              "projectPath": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\TreeImplementation.csproj"
+            "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\TreeImplementation.csproj": {
+              "projectPath": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\TreeImplementation.csproj"
             }
           }
         }
@@ -5607,26 +5607,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[7.0.19, 7.0.19]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[7.0.19, 7.0.19]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[7.0.19, 7.0.19]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -118,5 +118,28 @@ class Program
         {
             Console.WriteLine(ex.Message);
         }
+
+
+
+
+        //====================  Binary Tree - Print Right View   ===========================
+
+        BinaryTree binaryTree2 = new BinaryTree();
+        binaryTree2.Root = new Node(2);
+        binaryTree2.Root.Left = new Node(3);
+        binaryTree2.Root.Right = new Node(5);
+        binaryTree2.Root.Left.Left = new Node(4);
+        binaryTree2.Root.Right.Right = new Node(6);
+        binaryTree2.Root.Left.Left.Right = new Node(7);
+
+        binaryTree2.PrintRightView();  // Output: 2 5 6 7
+
+
+
+
+        //====================    ===========================
+
+
+
     }
 }

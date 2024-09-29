@@ -1,65 +1,65 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\",
+  "WorkspaceRootPath": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Trees\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
@@ -70,11 +70,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 303,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
@@ -94,198 +94,184 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md",
-              "RelativeDocumentMoniker": "Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md",
-              "RelativeToolTip": "Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-20T05:03:22.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
               "Title": "MinStackTests.cs",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueueTest\\MinStackTests.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T19:33:54.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T19:33:54.969Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Program.cs",
               "ViewState": "AQIAAGMAAAAAAAAAAAAcwHcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T19:00:13.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T19:00:13.479Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "MinStack.cs",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\MinStack.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T18:59:06.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T18:59:06.311Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "Queue.cs",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Queue.cs",
               "ViewState": "AQIAAC0AAAAAAAAAAAAcwD4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T18:57:55.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T18:57:55.011Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Stack.cs",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Stack.cs",
               "ViewState": "AQIAACIAAAAAAAAAAAAcwDgAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T18:57:39.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs",
-              "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs",
-              "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T18:56:47.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md",
-              "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md",
-              "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-12T18:55:12.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T18:57:39.993Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\README.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\README.md",
               "RelativeDocumentMoniker": "README.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\README.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAiwF4AAAAAAAAA",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAmwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2024-08-02T16:45:01.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md",
+              "RelativeDocumentMoniker": "Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md",
+              "RelativeToolTip": "Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\SecondMaxValue\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-20T05:03:22.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Node.cs",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs",
+              "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs",
+              "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:56:47.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md",
+              "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md",
+              "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\MinStack\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-12T18:55:12.38Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md",
               "RelativeDocumentMoniker": "Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md",
               "RelativeToolTip": "Data-Structures\\Trees\\TreeImplementation\\TreeImplementation\\MirrorTree\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-20T04:41:53.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T04:41:53.51Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\README.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\README.md",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\README.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\README.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\README.md",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-12T20:11:53.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T20:11:53.585Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\README.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\README.md",
               "RelativeDocumentMoniker": "Data-Structures\\Trees\\README.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\README.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Trees\\README.md",
               "RelativeToolTip": "Data-Structures\\Trees\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-12T20:11:49.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T20:11:49.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\DeleteMiddleElement\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-12T19:20:19.786Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T19:20:19.786Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Readme.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\Readme.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-02T16:43:47.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T16:43:47.675Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md",
+              "DocumentMoniker": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md",
               "RelativeDocumentMoniker": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md",
-              "ToolTip": "C:\\Users\\alfrw\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md",
+              "ToolTip": "C:\\Users\\Student\\source\\repos\\challenges-and-data-structures\\Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md",
               "RelativeToolTip": "Data-Structures\\Stack \u0026 Queue\\StackAndQueue\\StackAndQueue\\ReverseStackUsingQueue\\README.md",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-02T16:40:11.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T16:40:11.091Z"
             }
           ]
         }
