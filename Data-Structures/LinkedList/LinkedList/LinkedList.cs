@@ -16,7 +16,7 @@ namespace LinkedList
             head = null;
         }
 
-        // Add a node to linked list
+        // Add a node to linked list ( Insert Last  )
         public void Add(int data)
         {
             Node newNode = new Node(data);
@@ -96,8 +96,6 @@ namespace LinkedList
             }
             Console.WriteLine("Null");
         }
-
-
 
         // Remove duplicate nodes from the linked list
         public void RemoveDuplicate()
@@ -196,8 +194,6 @@ namespace LinkedList
             return nodeCount;
         }
 
-
-
         // Rotate linked list to the left by k places
         public void RotateLeft(int k)
         {
@@ -235,8 +231,5 @@ namespace LinkedList
             tail.Next = head;    // Connect the end of the list to the old head
             head = newHead;      // Update the head to the new head
         }
-
-
     }
-
 }

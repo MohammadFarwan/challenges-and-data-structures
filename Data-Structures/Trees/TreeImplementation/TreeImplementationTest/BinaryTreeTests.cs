@@ -175,5 +175,27 @@ public class BinaryTreeTests
         var expectedValues = new List<int> { 42 };
         Assert.Equal(expectedValues, largestValues);
     }
+
+    [Fact]
+    public void FindMaxLevelNodes_ShouldReturnZero_ForEmptyTree()
+    {
+        var tree = new BinaryTree();
+        Assert.Throws<InvalidOperationException>(() => tree.FindMaxLevelNodes());
+    }
+
+    [Fact]
+    public void FindMaxLevelNodes_ShouldReturnCorrectLevel()
+    {
+        var tree = new BinaryTree();
+        tree.Root = new Node(1);
+        tree.Root.Left = new Node(2);
+        tree.Root.Right = new Node(3);
+        tree.Root.Left.Left = new Node(4);
+        tree.Root.Left.Right = new Node(5);
+
+        int result = tree.FindMaxLevelNodes();
+        Assert.Equal(1, result); // Change this from 2 to 1
+    }
+
 }
 

@@ -140,6 +140,26 @@ class Program
         //====================    ===========================
 
 
+        BinaryTree Btree11 = new BinaryTree();
+        Btree11.Root = new Node(1);
+        Btree11.Root.Left = new Node(2);
+        Btree11.Root.Right = new Node(3);
+        Btree11.Root.Left.Left = new Node(4);
+        Btree11.Root.Left.Right = new Node(5);
+        Btree11.Root.Right.Right = new Node(6);
+        Btree11.Root.Left.Left.Left = new Node(7);
+
+        try
+        {
+            int maxLevel = Btree11.FindMaxLevelNodes();
+            Console.WriteLine($"The level with the maximum number of nodes is: {maxLevel}");
+        }
+        catch (InvalidOperationException ex)
+        {
+            Console.WriteLine(ex.Message);
+        }
+
+
 
     }
 }
